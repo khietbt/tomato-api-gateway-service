@@ -1,0 +1,2 @@
+server:
+  port: {TOMATO_API_GATEWAY_SERVICE_PORT}
